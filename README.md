@@ -5,7 +5,12 @@
 
 </div>
 <div style="display: inline_block"><br>
+   
+  <img align="center" alt="HTML" height="30" width="40"  src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="HTML" height="30" width="40"  src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor">
+  <img align="center" alt="HTML" height="30" width="40"  src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
+  
 
 </div>
  
