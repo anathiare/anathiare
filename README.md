@@ -1,43 +1,55 @@
-<table border="0"> 
-  <tr>
-    <td valign="top" width="60%">
-      <h1 align="center">✨ Olá, seja bem-vinda(o) ao meu GitHub! ✨</h1>
-      <p align="center">
-        <b>🌸 Desenvolvedora de **sonhos** em formato de interfaces! 🌸</b>
-      </p>
-      <h2>🌷 Sobre mim</h2>
-      <p>Oi! Eu sou a **Anathiare** 💻✨</p>
-      <p>Atuo como desenvolvedora frontend, trabalhando principalmente com **Angular**, **HTML**, **CSS** e **Tailwind**. Também exploro o universo de **FlutterFlow**, onde adoro criar experiências únicas — com leveza, propósito e muito carinho 🦋</p>
-      <p>Tenho um perfil mais reservado, mas coloco muita sensibilidade e dedicação em cada projeto que crio 💗</p>
-      <p>Também me interesso por temas como **sustentabilidade**, **radiestesia terapêutica**, **tarot terapêutico** e **tecnologia consciente**, que refletem meu jeito de ver o mundo 🌱</p>
-      
-   <td valign="top" width="40%">
-      <p align="center">
+<!-- SOBRE MIM -->
+<div style="width: 100%;">
+  <table style="width: 100%; table-layout: fixed;">
+    <tr>
+      <td valign="top" width="60%">
+        <h1 align="center">✨ Olá, seja bem-vinda(o) ao meu GitHub! ✨</h1>
+        <p align="center">
+          <b>🌸 Desenvolvedora de <i>sonhos</i> em formato de interfaces! 🌸</b>
+        </p>
+        <h2>🌷 Sobre mim</h2>
+        <p>Oi! Eu sou a <strong>Anathiare</strong> 💻✨</p>
+        <p>Atuo como desenvolvedora frontend, trabalhando principalmente com <strong>Angular</strong>, <strong>HTML</strong>, <strong>CSS</strong> e <strong>Tailwind</strong>. Também exploro o universo de <strong>FlutterFlow</strong>, onde adoro criar experiências únicas — com leveza, propósito e muito carinho 🦋</p>
+        <p>Tenho um perfil mais reservado, mas coloco muita sensibilidade e dedicação em cada projeto que crio 💗</p>
+        <p>Também me interesso por temas como <strong>sustentabilidade</strong>, <strong>radiestesia terapêutica</strong>, <strong>tarot terapêutico</strong> e <strong>tecnologia consciente</strong>, que refletem meu jeito de ver o mundo 🌱</p>
+      </td>
+      <td valign="top" width="40%" align="center">
         <img src="https://gifdb.com/images/high/lofi-coffee-laptop-bed-working-rc8j21p2rnwrz71s.gif" width="300" alt="Eu tomando café enquanto estudo">
-      </p>
-    </td>
-  </tr>
-</table>
-
-## 💻 Tecnologias que uso com amor:
-
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-   
-  <img align="center" alt="FlutterFlow" height="30" width="40"  src="https://docs.flutterflow.io/logos/logoMark_outlinePrimary_transparent.svg">
-  <img align="center" alt="Angular" height="30" width="40"  src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Angular Material" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/angularmaterial/angularmaterial-original.svg">
-  <img align="center" alt="Javascript" height="30" width="40"  src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
-  <img align="center" alt="CSS3" height="30" width="40"  src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="TailWind Css" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Firebase" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/firebase/firebase-original.svg">
-  <img align="center" alt="Git" height="30" width="40"  src="https://icongr.am/devicon/git-plain.svg?size=128&color=currentColor">
-  <img align="center" alt="Github" height="30" width="40"  src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Trello" height="30" width="40"  src="https://icongr.am/devicon/trello-plain.svg?size=128&color=currentColor">
-
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+
+
+<!-- TECNOLOGIAS -->
+<div style="width: 100%;">
+  <table style="width: 100%; table-layout: fixed;" width="100%">
+    <tr>
+      <td width="40%" valign="top" align="center">
+        <img src="https://i.pinimg.com/originals/1a/25/13/1a25138b1d5523d3bcc86aa065fc5f18.gif" width="300" alt="Techs">
+      </td>
+      <td valign="top" width="60%">
+        <h2>💻 Tecnologias que uso com amor: </h2>
+        <div>
+          <img alt="FlutterFlow" height="30" width="40" src="https://docs.flutterflow.io/logos/logoMark_outlinePrimary_transparent.svg">
+          <img alt="Angular" height="30" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor">
+          <img alt="Angular Material" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/angularmaterial/angularmaterial-original.svg">
+          <img alt="Javascript" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
+          <img alt="CSS3" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
+          <img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+          <br/><br/>
+          <img alt="TailWind Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original.svg">
+          <img alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/firebase/firebase-original.svg">
+          <img alt="Git" height="30" width="40" src="https://icongr.am/devicon/git-plain.svg?size=128&color=currentColor">
+          <img alt="Github" height="30" width="40" src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor">
+          <img alt="Trello" height="30" width="40" src="https://icongr.am/devicon/trello-plain.svg?size=128&color=currentColor">
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ## 🌸 Projetos que florescem aqui...
 
