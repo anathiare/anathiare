@@ -6,7 +6,7 @@
       <td valign="top" width="60%">
         <h1 align="center">✨ Olá, seja bem-vinda(o) ao meu GitHub! ✨</h1>
         <p align="center">
-          <b>🌸 Desenvolvedora de <i>sonhos</i> em formato de interfaces! 🌸</b>
+          <b>🌸 Desenvolvedora de <strong>sonhos</strong> em formato de interfaces! 🌸</b>
         </p>
         <h2>🌷 Sobre mim</h2>
         <p>Oi! Eu sou a <strong>Anathiare</strong> 💻✨</p>
@@ -65,11 +65,14 @@ Vamos trocar ideias, entre em contato! 💬
 </div>
  
 ## 💌 Onde me encontrar?
-<div> 
-  <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/anathiare" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:anathiare@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/anathiare" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div > 
+  <a href="https://www.youtube.com/@anathiare" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="45"></a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/anathiare" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40"></a>
+  &nbsp;&nbsp;
+  <a href = "mailto:anathiare@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="50"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/anathiare" target="_blank"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width="40"></a> 
 
 </div>
 
