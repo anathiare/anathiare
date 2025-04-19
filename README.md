@@ -47,8 +47,8 @@ Vamos trocar ideias, entre em contato! 💬
 ---
 <div>
    <a href="https://github.com/anathiare">
-   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=anathiare&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anathiare&layout=compact&langs_count=6&theme=omni"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anathiare&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anathiare&layout=compact&langs_count=6&theme=omni"/>
 
 </div>
  
