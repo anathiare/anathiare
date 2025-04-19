@@ -1,3 +1,4 @@
+
 <!-- SOBRE MIM -->
 <div style="width: 100%;">
   <table style="width: 100%; table-layout: fixed;">
@@ -24,12 +25,12 @@
 
 <!-- TECNOLOGIAS -->
 <div style="width: 100%;">
-  <table style="width: 100%; table-layout: fixed;" width="100%">
+  <table style="width: 100%; table-layout: fixed; border-collapse: collapse; border: none;" >
     <tr>
-      <td width="40%" valign="top" align="center">
-        <img src="https://i.pinimg.com/originals/1a/25/13/1a25138b1d5523d3bcc86aa065fc5f18.gif" width="300" alt="Techs">
+      <td width="30%" valign="top" align="center" style="border: none;">
+        <img src="https://i.pinimg.com/originals/1a/25/13/1a25138b1d5523d3bcc86aa065fc5f18.gif" width="200" alt="Techs">
       </td>
-      <td valign="top" width="60%">
+      <td valign="top" width="70%" style="border: none;">
         <h2>💻 Tecnologias que uso com amor: </h2>
         <div>
           <img alt="FlutterFlow" height="30" width="40" src="https://docs.flutterflow.io/logos/logoMark_outlinePrimary_transparent.svg">
@@ -38,7 +39,6 @@
           <img alt="Javascript" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
           <img alt="CSS3" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
           <img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-          <br/><br/>
           <img alt="TailWind Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original.svg">
           <img alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/firebase/firebase-original.svg">
           <img alt="Git" height="30" width="40" src="https://icongr.am/devicon/git-plain.svg?size=128&color=currentColor">
