@@ -1,13 +1,13 @@
   <img align="right" src="https://gifdb.com/images/high/lofi-coffee-laptop-bed-working-rc8j21p2rnwrz71s.gif" width="230" alt="Eu tomando café enquanto estudo">
-   <h1 align="center">✨ Olá, seja bem-vinda(o) ao meu GitHub! ✨</h1>
-        <p align="center">
-          <b>🌸 Desenvolvedora de <strong>sonhos</strong> em formato de interfaces! 🌸</b>
-        </p>
+   <h1 align="center"><img src="https://cdn.creazilla.com/cliparts/7801754/cherry-blossom-clipart-xl.png" width="40"> Anathiare Requena</h1>
+        <h3 align="center">
+        🌸 Desenvolvedora de <b>sonhos</b> em formato de interfaces! 🌸</b>
+        </h3>
         <h2>🌷 Sobre mim</h2>
-        <p>Oi! Eu sou a <strong>Anathiare</strong> 💻✨</p>
         <p>Atuo como desenvolvedora frontend, trabalhando principalmente com <strong>Angular</strong>,<br/> <strong>HTML</strong>, <strong>CSS</strong> e <strong>Tailwind</strong>. <br/>Também exploro o universo de <strong>FlutterFlow</strong>, onde adoro criar experiências únicas — <br/>com leveza, propósito e muito carinho 🦋</p>
         <p>Tenho um perfil mais reservado, mas coloco muita sensibilidade e <br/> dedicação em cada projeto que crio 💗</p>
         <p>Também me interesso por temas como <strong>radiestesia terapêutica</strong>, <strong>tarot terapêutico</strong>, <br/><strong>sustentabilidade</strong> e <strong>tecnologia consciente</strong>, que refletem meu jeito de ver o mundo 🌱</p>
+        <br/>
 
 ---
   <img align="left" src="https://i.pinimg.com/originals/1a/25/13/1a25138b1d5523d3bcc86aa065fc5f18.gif" width="200" alt="Techs">
