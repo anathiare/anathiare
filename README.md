@@ -63,7 +63,7 @@ Vamos trocar ideias, entre em contato! 💬
     </td>
    <td style="vertical-align: top;">
       <p align="top">
-        <img src="https://gifdb.com/images/high/lofi-coffee-laptop-bed-working-rc8j21p2rnwrz71s.gif" width="800" alt="Personagem digitando fofo estilo pixel">
+        <img src="https://gifdb.com/images/high/lofi-coffee-laptop-bed-working-rc8j21p2rnwrz71s.gif" width="300" alt="Personagem digitando fofo estilo pixel">
       </p>
     </td>
   </tr>
