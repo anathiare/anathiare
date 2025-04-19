@@ -12,7 +12,7 @@
       <p>Também me interesso por temas como **sustentabilidade**, **radiestesia terapêutica**, **tarot terapêutico** e **tecnologia consciente**, que refletem meu jeito de ver o mundo 🌱</p>
       
    <td valign="top" width="40%">
-      <p align="top">
+      <p align="center">
         <img src="https://gifdb.com/images/high/lofi-coffee-laptop-bed-working-rc8j21p2rnwrz71s.gif" width="300" alt="Eu tomando café enquanto estudo">
       </p>
     </td>
@@ -47,8 +47,8 @@ Vamos trocar ideias, entre em contato! 💬
 ---
 <div>
    <a href="https://github.com/anathiare">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anathiare&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anathiare&layout=compact&langs_count=6&theme=omni"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=anathiare&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anathiare&layout=compact&langs_count=6&theme=omni"/>
 
 </div>
  
