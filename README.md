@@ -1,6 +1,6 @@
 <table> 
   <tr>
-    <td>
+    <td valign="top" width="60%">
       <h1 align="center">✨ Olá, seja bem-vinda(o) ao meu GitHub! ✨</h1>
       <p align="center">
         <b>🌸 Desenvolvedora de **sonhos** em formato de interfaces! 🌸</b>
@@ -30,7 +30,13 @@
   <img align="center" alt="Trello" height="30" width="40"  src="https://icongr.am/devicon/trello-plain.svg?size=128&color=currentColor">
 
 </div>
-
+   <td valign="top" width="40%">
+      <p align="top">
+        <img src="https://gifdb.com/images/high/lofi-coffee-laptop-bed-working-rc8j21p2rnwrz71s.gif" width="300" alt="Eu tomando café enquanto estudo">
+      </p>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🌸 Projetos que florescem aqui...
@@ -60,11 +66,4 @@ Vamos trocar ideias, entre em contato! 💬
 <p align="center">
   Feito com 💕, café ☕ e uma pitadinha de encantamento ✨
 </p>
-    </td>
-   <td style="vertical-align: top;">
-      <p align="top">
-        <img src="https://gifdb.com/images/high/lofi-coffee-laptop-bed-working-rc8j21p2rnwrz71s.gif" width="300" alt="Personagem digitando fofo estilo pixel">
-      </p>
-    </td>
-  </tr>
-</table>
+
