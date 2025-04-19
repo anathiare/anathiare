@@ -1,4 +1,4 @@
-<table> 
+<table border="0"> 
   <tr>
     <td valign="top" width="60%">
       <h1 align="center">✨ Olá, seja bem-vinda(o) ao meu GitHub! ✨</h1>
@@ -10,8 +10,14 @@
       <p>Atuo como desenvolvedora frontend, trabalhando principalmente com **Angular**, **HTML**, **CSS** e **Tailwind**. Também exploro o universo de **FlutterFlow**, onde adoro criar experiências únicas — com leveza, propósito e muito carinho 🦋</p>
       <p>Tenho um perfil mais reservado, mas coloco muita sensibilidade e dedicação em cada projeto que crio 💗</p>
       <p>Também me interesso por temas como **sustentabilidade**, **radiestesia terapêutica**, **tarot terapêutico** e **tecnologia consciente**, que refletem meu jeito de ver o mundo 🌱</p>
-      ---
-
+      
+   <td valign="top" width="40%">
+      <p align="top">
+        <img src="https://gifdb.com/images/high/lofi-coffee-laptop-bed-working-rc8j21p2rnwrz71s.gif" width="300" alt="Eu tomando café enquanto estudo">
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## 💻 Tecnologias que uso com amor:
 
@@ -30,13 +36,7 @@
   <img align="center" alt="Trello" height="30" width="40"  src="https://icongr.am/devicon/trello-plain.svg?size=128&color=currentColor">
 
 </div>
-   <td valign="top" width="40%">
-      <p align="top">
-        <img src="https://gifdb.com/images/high/lofi-coffee-laptop-bed-working-rc8j21p2rnwrz71s.gif" width="300" alt="Eu tomando café enquanto estudo">
-      </p>
-    </td>
-  </tr>
-</table>
+
 ---
 
 ## 🌸 Projetos que florescem aqui...
